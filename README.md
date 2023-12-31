@@ -1,5 +1,5 @@
 # odin-recipes
-welcome to my italian-venezuelan recipes website. named "Alchemy"
+welcome to my italian-venezuelan recipes web project. named "Alchemy"
 
 this is a place to enjoy, and have fun with the ones you love the most.
 here you will find recipes, liquor, lots of coffee and venezuelan 
