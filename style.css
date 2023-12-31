@@ -1,0 +1,23 @@
+.titulo{
+    text-align: center;
+    color: black;
+    background-color: #fff0b3;
+}
+.comida{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+.ponche{
+    color: black;
+    background-color: #fff0b3;
+}
+.espresso{
+    color: black;
+    background-color: #fff0b3;
+}
+.arepa{
+    color: black;
+    background-color: #fff0b3;
+}
