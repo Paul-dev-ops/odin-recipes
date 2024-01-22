@@ -1,3 +1,4 @@
+
 .titulo{
     text-align: center;
     color: black;
@@ -9,15 +10,7 @@
     margin-right: auto;
     width: 75%;
 }
-.ponche{
-    color: black;
-    background-color: #fff0b3;
-}
-.espresso{
-    color: black;
-    background-color: #fff0b3;
-}
-.arepa{
+.ponche, .espresso, .arepa{
     color: black;
     background-color: #fff0b3;
 }
