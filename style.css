@@ -23,5 +23,6 @@
     border: 1px solid black;
     height: 20px;
     width:200px;
-    margin: 20px;
+    margin-right: 70px;
+    display: inline-block;
 }
