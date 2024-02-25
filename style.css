@@ -1,28 +1,32 @@
+* { 
+  : 2px solid red;
+}
+    /* this line above its there to outline my work ... and its 
+    the error marked as "style.css 3,M" in red lettering on the 
+    vscode explorer*/
 
-.titulo{
+.titulo {
     text-align: center;
     color: black;
     background-color: #fff0b3;
+    border-bottom: 1px dotted black;
 }
-.comida{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 75%;
-    margin-bottom: 40px;
+nav ul {
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 10%;
 }
-.ponche, .espresso, .arepa{
-    color: black;
-    background-color: #fff0b3;
-    border: 5px;
-    border-color: black;
-    padding: 1px;
-    text-align: center;
+div {
+    display: flex;
 }
-.container{
-    border: 1px solid black;
-    height: 20px;
-    width:200px;
-    margin-right: 70px;
-    display: inline-block;
+.texto-lateral1, .texto-lateral2 {
+    display: flex;
+    width: 300px;
+    padding: 10px;
+}
+.foto-comida {
+    display: flex;
+    padding-top: 30px;
+    width: 500px;
+    height: 400px;
 }
